@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UsJZleGS0Vg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\greco\\source\\repos\\CleanArchitechturesDemo\\ProductsShopApplication\\ProductsShopApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\greco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

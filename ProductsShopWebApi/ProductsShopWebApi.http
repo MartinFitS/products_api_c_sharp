@@ -1,0 +1,15 @@
+@ProductsShopWebApi_HostAddress = http://localhost:5088
+
+GET {{ProductsShopWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+POST {{ProductsShopWebApi_HostAddress}}/api/products/
+Content-Type: application/json
+{
+  "name": "Laptop Lenovo",
+  "description": "A laptop",
+  "price": 530.99,
+  "currency": "USD",
+  "quantityInventory": 19
+}
